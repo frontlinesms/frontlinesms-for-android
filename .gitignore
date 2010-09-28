@@ -1,0 +1,7 @@
+# Android generated folders
+gen/
+
+# Eclipse files and folders
+bin/
+.project
+.classpath
